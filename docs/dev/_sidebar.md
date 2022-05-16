@@ -1,0 +1,4 @@
+- [Home](/)
+- [Guide](guide.md "The greatest guide in the world")
+- [Dev](dev/)
+    - [101](dev/101.md "De page")
